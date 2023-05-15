@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="RaniaOuassif" />
+        <module name="AllAboutMe" />
+        <module name="DontForgetToStoreIt" />
+        <module name="TheCount" />
+        <module name="JavaBasicStudy" />
+        <module name="ForTimesFor" />
+        <module name="CoinFlipper" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Test" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
