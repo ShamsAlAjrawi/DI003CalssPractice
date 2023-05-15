@@ -1,0 +1,12 @@
+
+        Change the max on line 17 from 4 to 6
+
+        QUESTIONS
+
+        questions[4] = "Which Egyptian Queen was known for having an affair with Julius Caesar?";
+        questions[5] = "What clown represents the world's largest fast food burger franchise?";
+
+        RESPONSES
+
+        responses[4] = answers[randomIndexes[4]] + " was actually born closer to the iPhone than the construction of the Pyramids.";
+        responses[5] = "The red and yellow fellow " + answers[randomIndexes[5]] + " represents my home state Illinois.";
