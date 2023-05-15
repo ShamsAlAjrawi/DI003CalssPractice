@@ -20,10 +20,10 @@ public class HighRoller {
 
         // 1. Ask the user to tell you the number of sides a single die has.
         System.out.println("How many number of sides do you want for your die?");
-        int dieSides = mySc.nextInt();
+        int numSides = mySc.nextInt();
 
         // 2. Roll the die to generate a number between 1 - # sides
-        int rollResult = diceRoller.nextInt(dieSides) + 1;
+        int rollResult = diceRoller.nextInt(numSides) + 1;
 
         System.out.println("TIME TO ROOOOOOLL THE DICE!");
         System.out.println("I rolled a " + rollResult);
