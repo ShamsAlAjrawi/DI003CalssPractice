@@ -1,4 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="temurin-11" project-jdk-type="JavaSDK" />
+=======
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Korinna Assing/TheCount/pom.xml" />
+        <option value="$PROJECT_DIR$/Korinna Assing/AllAboutMe/pom.xml" />
+        <option value="$PROJECT_DIR$/Korinna Assing/ForTimesFor/pom.xml" />
+        <option value="$PROJECT_DIR$/Gabriela Gutierrez/Practice Programming/Exercises #5 - Random/CoinFlipper/pom.xml" />
+        <option value="$PROJECT_DIR$/Gabriela Gutierrez/Practice Programming/Excercises #3 - Scanner/DontForgetToStoreIt/pom.xml" />
+        <option value="$PROJECT_DIR$/Yuliet Hernandez Exposito/JavaBasicStudy/pom.xml" />
+        <option value="$PROJECT_DIR$/Test/pom.xml" />
+        <option value="$PROJECT_DIR$/RaniaOuassif/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="semeru-11" project-jdk-type="JavaSDK" />
+>>>>>>> 53ae237ff5b2d34a08ed39344f9786084780f8a2
 </project>
